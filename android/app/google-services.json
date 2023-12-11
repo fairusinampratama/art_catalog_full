@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538802214221",
+    "project_id": "artcatalog-a626c",
+    "storage_bucket": "artcatalog-a626c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538802214221:android:396fec5e693e91ff0c9304",
+        "android_client_info": {
+          "package_name": "com.example.art_catalog_full"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOgVQDJeLdqb3Iv8xJwYQbjEgXD0TqCOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
